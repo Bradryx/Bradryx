@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi, I'm Brandon
 
-<!--
-**Bradryx/Bradryx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Microsoft-focused Solution Architect working on modern workplace and cloud automation.
 
-Here are some ideas to get you started:
+### 🔧 Focus areas
+- Microsoft Intune
+- Microsoft 365 / Entra ID
+- Conditional Access
+- PowerShell automation
+- Modern Workplace architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📦 Projects
+- Intune automation scripts
+- Conditional Access baselines
+- Deployment tooling
+
+### ⚙️ Tools
+PowerShell • Microsoft Graph • Intune • Azure
+
+### 📫 Connect
+LinkedIn: https://www.linkedin.com/in/brandon-van-dijk/
